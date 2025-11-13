@@ -1,0 +1,14 @@
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\bin\Debug\net9.0\KlasseAuto.exe
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\bin\Debug\net9.0\KlasseAuto.deps.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\bin\Debug\net9.0\KlasseAuto.runtimeconfig.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\bin\Debug\net9.0\KlasseAuto.dll
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\bin\Debug\net9.0\KlasseAuto.pdb
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.AssemblyInfoInputs.cache
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.AssemblyInfo.cs
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.csproj.CoreCompileInputs.cache
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.dll
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\refint\KlasseAuto.dll
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.pdb
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.genruntimeconfig.cache
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\ref\KlasseAuto.dll
