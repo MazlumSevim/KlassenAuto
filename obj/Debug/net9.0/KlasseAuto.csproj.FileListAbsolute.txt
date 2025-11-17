@@ -12,3 +12,15 @@ C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\refint\K
 C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.pdb
 C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.genruntimeconfig.cache
 C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\ref\KlasseAuto.dll
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\bin\Debug\net9.0\KlasseAuto.staticwebassets.endpoints.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\KlasseAuto.sourcelink.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\scopedcss\bundle\KlasseAuto.styles.css
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ma.sevim\OneDrive - GPB\Desktop\C#\KlasseAuto\obj\Debug\net9.0\staticwebassets.build.endpoints.json
